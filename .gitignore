@@ -1,0 +1,7 @@
+bootstrap.php.cache
+phpunit.xml
+!cache/.gitkeep
+!logs/.gitkeep
+/cache/*
+/logs/*
+/config/parameters.yml
